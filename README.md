@@ -31,6 +31,6 @@ A list of tasks that multiple users have access to. The users can add items to t
 * **Corey Mitchell** - *User Authentication* - (https://github.com/corey-mitchell)
 * **Tyrell Bopp** - ** - (https://github.com/tbopp)
 * **Matthew Fort** - ** - (https://github.com/mfort87)
-* **Malorie Lara** - ** - ()
+* **Malorie Lara** - ** - (https://github.com/malorielara)
 * **V'Ana Abbott** - ** - (https://github.com/vana-abbott)
 * **Casey Monroe** - ** - (https://github.com/Monroe89)
